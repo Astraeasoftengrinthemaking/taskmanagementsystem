@@ -1,0 +1,19 @@
+{
+    "name": "hannnahmaelampas/taskmanagementsystem",
+    "description": "Task Management System of GAD office.",
+    "autoload": {
+        "psr-4": {
+            "Hannnahmaelampas\\Taskmanagementsystem\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Hannah Mae Lampas"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "phpmailer/phpmailer": "dev-master",
+        "dompdf/dompdf": "dev-master"
+    }
+}
